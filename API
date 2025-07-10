@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@canteen.com",
+      "password": "user123"
+    },
+    {
+      "id": "babe",
+      "email": "kaarthikrajaa06@gmail.com",
+      "password": "hello"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "email": "admin@canteen.com",
+      "password": "admin123"
+    }
+  ],
+  "orders": [
+    {
+      "id": "f463",
+      "userId": "babe",
+      "items": [
+        {
+          "name": "Idly",
+          "price": 10,
+          "quantity": 3
+        }
+      ],
+      "orderedAt": "2025-07-10T06:15:12.849Z"
+    }
+  ]
+}
