@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@canteen.com",
+      "password": "user123"
+    },
+    {
+      "id": "babe",
+      "email": "kaarthikrajaa06@gmail.com",
+      "password": "hello"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "email": "admin@canteen.com",
+      "password": "admin123"
+    }
+  ],
+  "orders": []
+}
